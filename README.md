@@ -1,6 +1,7 @@
 # SaveHeart-ConsoleGame-in-C
 
 ### 🖤호감도를 지켜라🖤 콘솔게임
+<br>
 
 2019년 소프트웨어 경진대회 수상작입니다.
 
