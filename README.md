@@ -11,9 +11,9 @@ https://developer1248.tistory.com/15?category=844229
 
 일종의 시뮬레이션 게임으로 사용자와 npc간의 상호작용을 통해 호감도를 결정 짓는 방식입니다.
 
-![image](https://user-images.githubusercontent.com/55081331/201038044-fb1c515e-4dde-4664-a23d-000a528b6358.png)
-![image](https://user-images.githubusercontent.com/55081331/201038454-9367cfaa-9622-4531-894d-32be7b9b1394.png)
+|![image](https://user-images.githubusercontent.com/55081331/201038044-fb1c515e-4dde-4664-a23d-000a528b6358.png)|![image](https://user-images.githubusercontent.com/55081331/201038454-9367cfaa-9622-4531-894d-32be7b9b1394.png)|
 
 
 자세한 설명 및 데모 영상은 아래 링크에서 확인하실 수 있습니다.
+
 https://developer1248.tistory.com/15?category=844229
