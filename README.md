@@ -4,7 +4,9 @@
 
 2019년 소프트웨어 경진대회 수상작입니다.
 
+<br>
 게임 영상은 아래 링크에서 볼 수 있습니다.
+
 https://developer1248.tistory.com/15?category=844229
 
 ![슬라이드1](https://user-images.githubusercontent.com/55081331/201036020-c2c6833d-d295-4a93-b888-967a503f4cc2.PNG)
